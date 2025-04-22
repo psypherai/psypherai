@@ -40,7 +40,7 @@ Psypher AI is at the forefront of AI and ML innovation. Here’s how we deliver 
 - [📸 Instagram](https://www.instagram.com/psypherai)
 - [📘 Facebook](https://www.facebook.com/psypherai)
 - [📺 YouTube](https://www.youtube.com/@psypher_ai)
-- 📬 [hi@psypher.ai](mailto:hi@psypher.ai)
+- [📬hi@psypher.ai](mailto:hi@psypher.ai)
 
 ---
 
