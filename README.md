@@ -4,7 +4,7 @@
 
 # 🤖 Psypher AI
 
-Welcome to **Psypher AI** — where cutting-edge artificial intelligence converges with real-world challenges to create transformative solutions. We specialize in crafting intelligent systems that drive innovation, optimize efficiency, and empower businesses across diverse industries.
+Welcome to **Psypher AI** where cutting-edge artificial intelligence converges with real-world challenges to create transformative solutions. We specialize in crafting intelligent systems that drive innovation, optimize efficiency, and empower businesses across diverse industries.
 
 ---
 
