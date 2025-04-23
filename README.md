@@ -24,16 +24,11 @@ Real-time intelligent threat detection, proactive risk mitigation, and fortified
 ### 📊 Advanced Analytics  
 Transforming complex datasets into meaningful, actionable insights for better strategic planning.
 
-### 🏥 Industry-Specific Innovation  
-- **Healthcare**: Streamlining patient care and improving outcomes.  
-- **Finance**: Enhancing fraud detection, risk management, and personalized services.  
-- **Retail**: Elevating customer experiences and optimizing inventory management.
-
 ### 🚀 Proprietary Products  
 Developing in-house platforms and tools to unlock next-gen productivity and innovation.
 
 ### 🧩 Full-Cycle Software Development  
-From ideation to deployment — end-to-end tailored software solutions built for scalability and impact.
+From ideation to deployment, end-to-end tailored software solutions built for scalability and impact.
 
 ---
 
