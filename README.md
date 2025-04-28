@@ -35,7 +35,7 @@ From ideation to deployment, end-to-end tailored software solutions built for sc
 - [📸 Instagram](https://www.instagram.com/psypherai)
 - [📘 Facebook](https://www.facebook.com/psypherai)
 - [📺 YouTube](https://www.youtube.com/@psypher_ai)
-- 📬 [hi@psypher.ai](mailto:hi@psypher.ai)
+- [📬 hi@psypher.ai](mailto:hi@psypher.ai)
 
 ---
 
